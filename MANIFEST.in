@@ -1,0 +1,3 @@
+exclude */test* *.log
+exclude *.pyc
+exclude *.swp
