@@ -1,8 +1,5 @@
 #coding:utf-8
 
-"""简单日志模块
-该版本只能用于python2"""
-
 import os
 import sys
 import time

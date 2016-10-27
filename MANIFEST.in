@@ -1,3 +1,5 @@
 exclude */test* *.log
 exclude *.pyc
 exclude *.swp
+exclude build
+exclude __pycache__
